@@ -12,3 +12,7 @@
 [143 Reorder List](https://leetcode.com/problems/reorder-list/ "Click to Visit Problem") 
 | ----- | 
 
+[21 Merge Two sorted List](https://leetcode.com/problems/merge-two-sorted-lists/ "Click to Visit Problem") 
+| ----- | 
+
+
